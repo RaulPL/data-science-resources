@@ -28,8 +28,8 @@ List of resources that I have found helpful in order to improve my data science 
 ### Videos
 
 * [Sean Taylor Keynote at CDSM20](https://youtu.be/oTeygIetj34)
-* [Principles of Good Machine Learning Systems Design](https://youtu.be/c_AUuTuPA5k)
-
+* [Principles of Good Machine Learning Systems Design](https://youtu.be/c_AUuTuPA5k) by Chip Huyen
+* [How To Communicate Stats from Research](https://youtu.be/ixKhS0Silb4)
 
 ### Fairness and privacy
 
@@ -52,6 +52,9 @@ List of resources that I have found helpful in order to improve my data science 
 
 * Statistical rethinking ([video lectures](https://youtu.be/4WVelCswXo4))
 * Regression and other stories ([examples](https://avehtari.github.io/ROS-Examples/))
+* [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
 
 #### Papers
 
@@ -75,16 +78,50 @@ List of resources that I have found helpful in order to improve my data science 
 * [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course) by Brady Neal
 
 
+#### Papers
+
+* [A Crash Course in Good and Bad Controls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689437) by Carlos Cinelli, Andrew Forney and Judea Pearl
+* [Counterfactual Reasoning and Learning Systems: The Example of Computational Advertising](https://jmlr.org/papers/v14/bottou13a.html) by Léon Bottou, Jonas Peters, Joaquin Quiñonero-Candela, Denis X. Charles, D. Max Chickering, Elon Portugaly, Dipankar Ray, Patrice Simard, Ed Snelson
+
+
+### Frequentist statistics
+
+#### Blog Posts
+* [Having confidence in confidence intervals](https://medium.com/@EpiEllie/having-confidence-in-confidence-intervals-8f881712d837) by Ellie Murray
+
 ### Linear algebra
+
+#### Books
+
+* [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/)
 
 #### Videos
 
 * [Essence of linear algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown
 
+
+### Optimization
+
+### Machine learning
+
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) (2nd edition)
+* [Model-Based Machine Learning](https://mbmlbook.com/index.html)
+* [Dive into Deep Learning](https://d2l.ai/)
+
+
 ### Optimization
 
 #### Videos
 * [Convex Optimization Basics](https://youtu.be/oLowhs83aHk) - Intelligent Systems Lab
+
+### Sequential decision making
+
+#### Books
+
+* [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272) by Aleksandrs Slivkins
+* [A Tutorial on Thompson Sampling](https://arxiv.org/abs/1707.02038) by Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband and Zheng Wen
+* [Algorithms for Decision Making](https://algorithmsbook.com/) by Mykel Kochenderfer, Tim Wheeler and Kyle Wray
 
 ### Software engineering
 
