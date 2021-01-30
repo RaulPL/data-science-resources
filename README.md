@@ -160,6 +160,8 @@ List of resources that I have found useful to improve my data science skills
 ### Data processing
 
 * Pandas
+  * [just-pandas-things](https://github.com/chiphuyen/just-pandas-things)
+  * [Comprehensive Guide to Grouping and Aggregating with Pandas](https://pbpython.com/groupby-agg.html)
 * Numpy
 * SQL
 * Jax
@@ -180,6 +182,7 @@ List of resources that I have found useful to improve my data science skills
 ### Machine learning models
 
 * scikit-learn
+  * [scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
 * statsmodels
 * PyMC3
 * Pyro / NumPyro
@@ -205,3 +208,6 @@ List of resources that I have found useful to improve my data science skills
 
 * Altair
   * [calmcode Tutorial](https://calmcode.io/altair/introduction.html)
+* Matplotlib
+  * [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
+  * [Matplotlib cheatsheets](https://github.com/matplotlib/cheatsheets)
