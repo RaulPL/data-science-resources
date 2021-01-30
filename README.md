@@ -23,25 +23,13 @@ List of resources that I have found helpful in order to improve my data science 
 ### Blog Posts
 
 * [Designing and evaluating metrics](https://medium.com/@seanjtaylor/designing-and-evaluating-metrics-5902ad6873bf)
-
+* [Algorithms Tour At Stitch Fix](https://algorithms-tour.stitchfix.com/)
 
 ### Videos
 
 * [Sean Taylor Keynote at CDSM20](https://youtu.be/oTeygIetj34)
 * [Principles of Good Machine Learning Systems Design](https://youtu.be/c_AUuTuPA5k) by Chip Huyen
 * [How To Communicate Stats from Research](https://youtu.be/ixKhS0Silb4)
-
-### Fairness and privacy
-
-#### Books
-
-* [Fairness and machine learning](https://fairmlbook.org/) by Solon Barocas, Moritz Hardt and Arvind Narayanan
-* The Ethical Algorithm by Michael Kearns and Aaron Roth
-
-#### Videos
-
-* Tutorial by Moritz Hardt at MLSS 2020 ([part 1](https://youtu.be/Igq_S_7IfOU), [part 2](https://youtu.be/9oNVFQ9llPc))
-
 
 
 ## 🧠 Methods
@@ -62,6 +50,8 @@ List of resources that I have found helpful in order to improve my data science 
 * [Bayesian Workflow](https://arxiv.org/abs/2011.01808) by Andrew Gelman, Aki Vehtari, Daniel Simpson, Charles C. Margossian, Bob Carpenter, Yuling Yao, Lauren Kennedy, Jonah Gabry, Paul-Christian Bürkner and Martin Modrák
 
 #### Blog Posts
+
+* [An Introduction to Probability and Computational Bayesian Statistics](https://ericmjl.github.io/essays-on-data-science/machine-learning/computational-bayesian-stats/)
 * [Michael Betancourt - case studies](https://betanalpha.github.io/writing/)
 
 ### Causality
@@ -83,6 +73,30 @@ List of resources that I have found helpful in order to improve my data science 
 * [A Crash Course in Good and Bad Controls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689437) by Carlos Cinelli, Andrew Forney and Judea Pearl
 * [Counterfactual Reasoning and Learning Systems: The Example of Computational Advertising](https://jmlr.org/papers/v14/bottou13a.html) by Léon Bottou, Jonas Peters, Joaquin Quiñonero-Candela, Denis X. Charles, D. Max Chickering, Elon Portugaly, Dipankar Ray, Patrice Simard, Ed Snelson
 
+#### Blog Posts
+* [Difference-in-Differences](https://diff.healthpolicydatascience.org/)
+
+
+
+### Data Structures and Algorithms
+
+#### Books
+* [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.manning.com/books/grokking-algorithms)
+* [Real-World Algorithms: A Beginner's Guide](https://louridas.github.io/rwa/)
+
+
+### Fairness and privacy
+
+#### Books
+
+* [Fairness and machine learning](https://fairmlbook.org/) by Solon Barocas, Moritz Hardt and Arvind Narayanan
+* The Ethical Algorithm by Michael Kearns and Aaron Roth
+
+#### Videos
+
+* Tutorial by Moritz Hardt at MLSS 2020 ([part 1](https://youtu.be/Igq_S_7IfOU), [part 2](https://youtu.be/9oNVFQ9llPc))
+
+
 
 ### Frequentist statistics
 
@@ -102,11 +116,16 @@ List of resources that I have found helpful in order to improve my data science 
 
 ### Optimization
 
+#### Books
+* [Algorithms for Optimization](https://mitpress.mit.edu/books/algorithms-optimization)
+
+
 ### Machine learning
 
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) (2nd edition)
 * [Model-Based Machine Learning](https://mbmlbook.com/index.html)
+* [Deep Learning](https://www.deeplearningbook.org/)
 * [Dive into Deep Learning](https://d2l.ai/)
 
 
@@ -144,6 +163,11 @@ List of resources that I have found helpful in order to improve my data science 
 * Numpy
 * SQL
 * Jax
+* Geopandas
+  * [Introduction to Geospatial Data Analysis with Python | SciPy 2018 Tutorial](https://youtu.be/kJXUUO5M4ok)
+  * [Intermediate Methods for Geospatial Data Analysis | SciPy 2019 Tutorial](https://youtu.be/fc1f4MNLzdQ)
+* PyTorch
+  * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
 
 ### Workflow orchestration
@@ -165,7 +189,19 @@ List of resources that I have found helpful in order to improve my data science 
 ### Miscellaneous
 
 * Git
-    * [Oh Shit, Git!?!](https://ohshitgit.com/)
+  * [Oh Shit, Git!?!](https://ohshitgit.com/)
+  * [Crash-Course in Contributing to Open Source Projects](https://youtu.be/5OL8XoMMOfA)
+  * [Learn Git Branching](https://learngitbranching.js.org/)
+  * [Introduction to Git](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
 * Docker
   * [Introduction to Docker and containers - PyCon 2016](https://youtu.be/ZVaRK10HBjo)
+  * [Docker Compose in 12 Minutes](https://youtu.be/Qw9zlE3t8Ko)
+
+*  Python environments
+  * [calmcode Tutorial](https://calmcode.io/virtualenv/intro.html)
+
+### Visualizations
+
+* Altair
+  * [calmcode Tutorial](https://calmcode.io/altair/introduction.html)
