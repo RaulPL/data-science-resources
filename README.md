@@ -1,6 +1,6 @@
 # data-science-resources
 
-List of resources that I have found helpful in order to improve my data science skills 
+List of resources that I have found useful to improve my data science skills
 
 <br>
 
