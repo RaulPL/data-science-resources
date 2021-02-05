@@ -19,6 +19,7 @@ List of resources that I have found useful to improve my data science skills
 
 * Trustworthy online controlled experiments
 * Building Machine Learning Powered Applications: Going from Idea to Product
+* Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 
 ### Blog Posts
 
@@ -71,6 +72,9 @@ List of resources that I have found useful to improve my data science skills
 #### Papers
 
 * [A Crash Course in Good and Bad Controls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689437) by Carlos Cinelli, Andrew Forney and Judea Pearl
+* [Does obesity shorten life? The importance of well-defined interventions to answer causal questions](https://www.nature.com/articles/ijo200882)
+* [Does Obesity Shorten Life? Or is it the Soda? On Non-manipulable Causes](https://www.degruyter.com/document/doi/10.1515/jci-2018-2001/html)
+* [Selection Mechanisms and Their Consequences: Understanding and Addressing Selection Bias](https://link.springer.com/article/10.1007/s40471-020-00241-6)
 * [Counterfactual Reasoning and Learning Systems: The Example of Computational Advertising](https://jmlr.org/papers/v14/bottou13a.html) by Léon Bottou, Jonas Peters, Joaquin Quiñonero-Candela, Denis X. Charles, D. Max Chickering, Elon Portugaly, Dipankar Ray, Patrice Simard, Ed Snelson
 
 #### Blog Posts
@@ -108,6 +112,7 @@ List of resources that I have found useful to improve my data science skills
 #### Books
 
 * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/)
+
 
 #### Videos
 
@@ -168,6 +173,8 @@ List of resources that I have found useful to improve my data science skills
 * Geopandas
   * [Introduction to Geospatial Data Analysis with Python | SciPy 2018 Tutorial](https://youtu.be/kJXUUO5M4ok)
   * [Intermediate Methods for Geospatial Data Analysis | SciPy 2019 Tutorial](https://youtu.be/fc1f4MNLzdQ)
+* Spark
+  * [Learning Spark: Lightning-Fast Data Analytics](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/)
 * PyTorch
   * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
@@ -200,9 +207,12 @@ List of resources that I have found useful to improve my data science skills
 * Docker
   * [Introduction to Docker and containers - PyCon 2016](https://youtu.be/ZVaRK10HBjo)
   * [Docker Compose in 12 Minutes](https://youtu.be/Qw9zlE3t8Ko)
+  * [Docker Compose: a nice way to set up a dev environment](https://jvns.ca/blog/2021/01/04/docker-compose-is-nice/)
 
 *  Python environments
   * [calmcode Tutorial](https://calmcode.io/virtualenv/intro.html)
+  * [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
+
 
 ### Visualizations
 
