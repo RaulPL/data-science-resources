@@ -124,6 +124,10 @@ List of resources that I have found useful to improve my data science skills
 #### Books
 * [Algorithms for Optimization](https://mitpress.mit.edu/books/algorithms-optimization)
 
+#### Videos
+
+* [Optimization Algorithms course](https://youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc) by  Constantine Caramanis
+
 
 ### Machine learning
 
@@ -209,7 +213,7 @@ List of resources that I have found useful to improve my data science skills
   * [Docker Compose in 12 Minutes](https://youtu.be/Qw9zlE3t8Ko)
   * [Docker Compose: a nice way to set up a dev environment](https://jvns.ca/blog/2021/01/04/docker-compose-is-nice/)
 
-*  Python environments
+* Python environments
   * [calmcode Tutorial](https://calmcode.io/virtualenv/intro.html)
   * [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
 
